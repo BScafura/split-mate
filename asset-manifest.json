@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/split-mate/static/css/main.3edcd370.css",
+    "main.js": "/split-mate/static/js/main.b86cfa4c.js",
+    "index.html": "/split-mate/index.html",
+    "main.3edcd370.css.map": "/split-mate/static/css/main.3edcd370.css.map",
+    "main.b86cfa4c.js.map": "/split-mate/static/js/main.b86cfa4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3edcd370.css",
+    "static/js/main.b86cfa4c.js"
+  ]
+}
